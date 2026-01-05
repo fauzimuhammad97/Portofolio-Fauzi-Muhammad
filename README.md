@@ -8,6 +8,9 @@ teliti, dan mendukung pengelolaan database untuk kebutuhan administrasi
 dan pengambilan keputusan.
 
 ## Dokumen Portofolio
+📄 [Unduh CV (PDF)](portofolio_Fauzi_Muhammad_pdf.pdf)
+
+## Dokumen Portofolio
 📄 [Unduh Portofolio (PDF)](portofolio_Fauzi_Muhammad_pdf.pdf)
 
 ## Kontak
