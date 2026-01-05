@@ -8,7 +8,7 @@ teliti, dan mendukung pengelolaan database untuk kebutuhan administrasi
 dan pengambilan keputusan.
 
 ## Dokumen Portofolio
-📄 [Unduh Portofolio (PDF)](Portofolio_Fauzi_Muhammad.pdf)
+📄 [Unduh Portofolio (PDF)](portofolio_Fauzi_Muhammad_pdf.pdf)
 
 ## Kontak
 📞 Telepon / WhatsApp: +62 813-9556-3997  
