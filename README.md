@@ -1,14 +1,17 @@
 # Portofolio Fauzi Muhammad, S.T
 
-**Posisi:** Database Administrator  
+**Posisi Dilamar:** Database Administrator  
 **Bidang:** Data & Sistem Informasi Geospasial  
 
 ## Tentang Saya
-Lulusan Teknik Geodesi dengan pengalaman lebih dari 4 tahun
-dalam pengelolaan, validasi, dan pemutakhiran data spasial
-di instansi pemerintah dan perusahaan swasta.
-## Portofolio
-📄 [Download Portofolio PDF](portofolio_Fauzi Muhammad pdf.pdf)
+Saya adalah lulusan Teknik Geodesi dengan pengalaman lebih dari 4 tahun
+dalam pengelolaan, validasi, dan pemutakhiran data spasial pada instansi
+pemerintah dan perusahaan swasta. Terbiasa bekerja secara sistematis,
+teliti, dan mendukung pengelolaan database untuk kebutuhan administrasi
+dan pengambilan keputusan.
+
+## Dokumen Portofolio
+📄 [Unduh Portofolio (PDF)](Portofolio_Fauzi_Muhammad.pdf)
 
 ## Kontak
 📧 Email: fauzimuhammad97@gmail.com  
