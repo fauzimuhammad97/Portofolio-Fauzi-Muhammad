@@ -11,7 +11,7 @@ teliti, dan mendukung pengelolaan database untuk kebutuhan administrasi
 dan pengambilan keputusan.
 
 ## Dokumen Portofolio
-📄 [Unduh Portofolio (PDF)](Portofolio_Fauzi_Muhammad.pdf)
+📄 [Unduh Portofolio (PDF)]([Portofolio_Fauzi_Muhammad.pdf](https://github.com/fauzimuhammad97/Portofolio-Fauzi-Muhammad/blob/main/portofolio_Fauzi_Muhammad_pdf.pdf))
 
 ## Kontak
 📧 Email: fauzimuhammad97@gmail.com  
