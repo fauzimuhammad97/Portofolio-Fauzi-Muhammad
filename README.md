@@ -7,10 +7,10 @@ pemerintah dan perusahaan swasta. Terbiasa bekerja secara sistematis,
 teliti, dan mendukung pengelolaan database untuk kebutuhan administrasi
 dan pengambilan keputusan.
 
-## Dokumen Portofolio
-📄 [Unduh CV (PDF)](portofolio_Fauzi_Muhammad_pdf.pdf)
+## Curriculum Vitae
+📄 [Unduh CV (PDF)]([portofolio_Fauzi_Muhammad_pdf.pdf](https://github.com/fauzimuhammad97/Portofolio-Fauzi-Muhammad/blob/main/CV_Fauzi%20Muhammad%20(6).pdf))
 
-## Dokumen Portofolio
+## Portofolio
 📄 [Unduh Portofolio (PDF)](portofolio_Fauzi_Muhammad_pdf.pdf)
 
 ## Kontak
