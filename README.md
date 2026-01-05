@@ -8,7 +8,7 @@ Lulusan Teknik Geodesi dengan pengalaman lebih dari 4 tahun
 dalam pengelolaan, validasi, dan pemutakhiran data spasial
 di instansi pemerintah dan perusahaan swasta.
 ## Portofolio
-📄 [Download Portofolio PDF](Portofolio_Fauzi_Muhammad.pdf)
+📄 [Download Portofolio PDF](portofolio_Fauzi Muhammad pdf.pdf)
 
 ## Kontak
 📧 Email: fauzimuhammad97@gmail.com  
