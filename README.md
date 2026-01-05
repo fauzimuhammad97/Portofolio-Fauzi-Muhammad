@@ -14,6 +14,7 @@ dan pengambilan keputusan.
 📄 [Unduh Portofolio (PDF)](https://github.com/fauzimuhammad97/Portofolio-Fauzi-Muhammad/blob/main/portofolio_Fauzi_Muhammad_pdf.pdf)
 
 ## Kontak
+📞 Telepon / WhatsApp: +62 813-9556-3997  
 📧 Email: fauzimuhammad97@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/fauzi-muhammadb532aa1a2
  
